@@ -32,7 +32,8 @@ Import the package on the `pubspec.yaml`.
 
 ```yaml
 dependencies:
-  git: https://github.com/Luanftg/dependency_injector
+  dependency_injector:
+    git: https://github.com/Luanftg/dependency_injector
 ```
 
 ## Usage
