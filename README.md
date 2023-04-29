@@ -28,7 +28,12 @@ A package created to manage instances for your application.
 
 ## Getting started
 
-Import the packege on the `pubspec.yaml` on the tag `dependencies:` passing the parameter `git:https://github.com/Luanftg/dependency_injector`
+Import the package on the `pubspec.yaml`.
+
+```yaml
+dependencies:
+  git: https://github.com/Luanftg/dependency_injector
+```
 
 ## Usage
 
